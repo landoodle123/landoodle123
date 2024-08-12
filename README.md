@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C# + .NET
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I exist
+- ⚡ Fun fact: When the computer was first invented, I was less than 750 millennia old
+- 🧠 I know a bit of Python, Go, and HTML/CSS and am learning C# and JS
 
 <!---
 landoodle123/landoodle123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
