@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @landoodle123
 - 👀 I’m interested in making programming projects for fun
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C# + .NET
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I exist
