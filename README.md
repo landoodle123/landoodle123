@@ -1,3 +1,1 @@
-i breath most of the time
-
-idk what to put here lol
+web and desktop developer with experience in js and java (to an extent)
